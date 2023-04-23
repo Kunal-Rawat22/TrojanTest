@@ -47,9 +47,9 @@ img:hover
 
 .Pizza
 {
-  background-color: green;
-  height: 250px;
-  width: 250px;
+  background-color: cyan;
+  height: 550px;
+  width: 550px;
   border-radius: 20px;
 }
 /****************ID Selector**************/
